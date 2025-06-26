@@ -1,4 +1,3 @@
-# servicetitan-ds-intern-assignment
 # ServiceTitan Data Science Internship Assignment
 
 This repository contains my submission for the ServiceTitan Data Science Internship coding exercise (June 2025).
